@@ -15,7 +15,7 @@ public class Calc {
         return x / y;
     }
     
-	public static void main (String[] args) {
-		System.out.println(add(1,3));
-	}
+    public static void main (String[] args) {
+	System.out.println(add(1,3));
+    }
 }
